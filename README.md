@@ -47,5 +47,5 @@ OUTPUT
 (3) Enter a character: z
     lowercase letter
 
-(4) Enter any input: Pratiksha
+(4) Enter any input: Prachi
     it is character
