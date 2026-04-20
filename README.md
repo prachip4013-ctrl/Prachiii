@@ -1,4 +1,4 @@
-# Prachiii
+# Assignment 3
 Assignment 3
 # 1. WAP to find out greatest of 3 numbers
 a = int(input("Enter first number: "))
